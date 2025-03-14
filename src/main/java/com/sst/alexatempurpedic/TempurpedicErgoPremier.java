@@ -35,7 +35,7 @@ public class TempurpedicErgoPremier {
      * Last resort hard coded IP address, set here if you don't want to use
      * environment variable;
      */
-    public final static String ERGO_IP_ADDRESS = "10.0.0.35";
+    public final static String ERGO_IP_ADDRESS = "192.168.1.179";
 
     /**
      * Environment variable name used to store IP Address of the Wi-Fi Module
